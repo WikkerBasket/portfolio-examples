@@ -93,3 +93,4 @@ with open("S:\CS 121\stockIndex.csv", "r") as csvfile:
 #Function calls wherein we pass our preset paramaters, which makes for easy customization.
 drawGraph(days, index, scale, location, notchWidth)
 plotGraph(days, index, scale, location, notchWidth)
+input()
