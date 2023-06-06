@@ -1,0 +1,4 @@
+﻿  rollerFunctions.cpp
+S:\CS 131\VS Projects\CreatureFeature\CreatureFeature\rollerFunctions.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+S:\CS 131\VS Projects\CreatureFeature\CreatureFeature\rollerFunctions.cpp(82,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CreatureFeature.vcxproj -> S:\CS 131\VS Projects\CreatureFeature\x64\Debug\CreatureFeature.exe
